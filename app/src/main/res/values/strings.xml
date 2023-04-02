@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarOrderer</string>
+    <string name="welcome">Welcome to CarOrderer!</string>
+    <string name="user_name">Enter your name: </string>
+    <string name="next">Next</string>
+    <string name="choose">Please enter the car you want to order.</string>
+    <string name="car">Enter your car: </string>
+    <string name="order">Order</string>
+</resources>
